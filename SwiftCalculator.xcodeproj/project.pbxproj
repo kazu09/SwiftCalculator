@@ -18,7 +18,7 @@
 		96D76B812B3C40880046014E /* SwiftCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96D76B802B3C40880046014E /* SwiftCalculatorTests.swift */; };
 		96D76B8B2B3C40880046014E /* SwiftCalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96D76B8A2B3C40880046014E /* SwiftCalculatorUITests.swift */; };
 		96D76B8D2B3C40880046014E /* SwiftCalculatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96D76B8C2B3C40880046014E /* SwiftCalculatorUITestsLaunchTests.swift */; };
-		96FD92D72B3D6698007182A3 /* CustomButton.xib in Resources */ = {isa = PBXBuildFile; fileRef = 96FD92D62B3D6698007182A3 /* CustomButton.xib */; };
+		96E55AB22B3E55DD00ED2259 /* CustomButton.xib in Resources */ = {isa = PBXBuildFile; fileRef = 96E55AB12B3E55DD00ED2259 /* CustomButton.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,7 +54,7 @@
 		96D76B862B3C40880046014E /* SwiftCalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftCalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		96D76B8A2B3C40880046014E /* SwiftCalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftCalculatorUITests.swift; sourceTree = "<group>"; };
 		96D76B8C2B3C40880046014E /* SwiftCalculatorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftCalculatorUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		96FD92D62B3D6698007182A3 /* CustomButton.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CustomButton.xib; sourceTree = "<group>"; };
+		96E55AB12B3E55DD00ED2259 /* CustomButton.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CustomButton.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,9 +109,9 @@
 				96D76B6B2B3C40850046014E /* SceneDelegate.swift */,
 				96D76B6D2B3C40850046014E /* ViewController.swift */,
 				96D76B6F2B3C40850046014E /* Main.storyboard */,
-				96FD92D62B3D6698007182A3 /* CustomButton.xib */,
 				9676A11D2B3C528E00C8EF20 /* CustomLabel.swift */,
 				9676A11B2B3C473E00C8EF20 /* CustomButton.swift */,
+				96E55AB12B3E55DD00ED2259 /* CustomButton.xib */,
 				96D76B722B3C40870046014E /* Assets.xcassets */,
 				96D76B742B3C40870046014E /* LaunchScreen.storyboard */,
 				96D76B772B3C40870046014E /* Info.plist */,
@@ -240,7 +240,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				96FD92D72B3D6698007182A3 /* CustomButton.xib in Resources */,
+				96E55AB22B3E55DD00ED2259 /* CustomButton.xib in Resources */,
 				96D76B762B3C40870046014E /* LaunchScreen.storyboard in Resources */,
 				96D76B732B3C40870046014E /* Assets.xcassets in Resources */,
 				96D76B712B3C40850046014E /* Main.storyboard in Resources */,
