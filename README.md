@@ -11,7 +11,7 @@
 ## Button explanation
 * 0 ~ 9 and "." Button
   *  Used to input numbers and decimal points.
-*  "÷", "×", "+",　"-" Button
+*  "÷", "×", "+" and "-" Button
   * Perform arithmetic operations such as addition, subtraction, multiplication, and division.
 * "AC" and "✖" Button
   * Used to delete text in label area.
